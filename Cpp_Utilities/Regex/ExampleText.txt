@@ -1,0 +1,10 @@
+This is some example text for me to play around with.
+Geeks for Geeks.
+My name is John Murad
+Phone number: 909-477-0449
+
+Hello world!
+Address:Name
+6822:Milad
+7822:Nadia
+6969:Tata
